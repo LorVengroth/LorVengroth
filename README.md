@@ -1,17 +1,15 @@
 <div align="center">
   <h1>Hi there, I'm Lor Vengroth 👋</h1>
-  <p><strong>DevOps Enthusiast & Full-Stack Software Engineer</strong></p>
-  <p>Building scalable full-stack applications, automating cloud infrastructure, and exploring distributed systems.</p>
+  <p><strong>DevOps Student & Full-Stack Web Developer</strong></p>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 Currently researching **Spring Microservice Architecture** & cloud-native orchestration
+- 🌱 Currently researching **Spring Microservice Architecture** 
 - ⚙️ Passionate about **DevOps Engineering**, CI/CD automation, containerization, and high-availability infrastructure
-- 💻 Background in **Full-Stack Web Development**, bridging clean frontend interfaces with resilient backend services
-
+- 💻 Background in **Full-Stack Web Development**
 ---
 
 ### 🛠️ Tech Stack & DevOps Tools
@@ -27,4 +25,25 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### **DevOps, Cloud & Infrastructure**
-![Linux](
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+
+---
+
+### 📂 Current Focus & Learning Roadmap
+
+| Domain | Focus Areas |
+| :--- | :--- |
+| **Architecture** | Spring Cloud, Service Discovery, API Gateway, Distributed Microservices |
+| **CI/CD & Quality** | Automated Jenkins Pipelines, SonarQube Quality Gates, Ansible Playbooks |
+| **Orchestration** | Docker Compose, Kubernetes Clusters (Pods, Services, Ingress), NGINX Reverse Proxy |
+
+---
+
+> *"Automate everything, build resilient systems, and keep learning."*
