@@ -14,15 +14,18 @@
 
 ### 🛠️ Tech Stack & DevOps Tools
 
-#### **Backend & Database**
+#### **Backend & Database & Auth **
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### **DevOps, Cloud & Infrastructure**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -36,14 +39,5 @@
 
 ---
 
-### 📂 Current Focus & Learning Roadmap
-
-| Domain | Focus Areas |
-| :--- | :--- |
-| **Architecture** | Spring Cloud, Service Discovery, API Gateway, Distributed Microservices |
-| **CI/CD & Quality** | Automated Jenkins Pipelines, SonarQube Quality Gates, Ansible Playbooks |
-| **Orchestration** | Docker Compose, Kubernetes Clusters (Pods, Services, Ingress), NGINX Reverse Proxy |
-
----
 
 > *"Automate everything, build resilient systems, and keep learning."*
